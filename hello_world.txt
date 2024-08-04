@@ -1,1 +1,3 @@
-Tryibg out Odin!
+Trying out Odin!
+
+Fixed it now
